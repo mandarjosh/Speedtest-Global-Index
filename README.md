@@ -7,4 +7,4 @@ This project scrapes data for mobile and broadband speeds by country, stores the
 - `your_script.py`: Script to scrape data and store it in CSV files and an MS SQL Server database.
 - `mobile.csv`: CSV file containing mobile data.
 - `broadband.csv`: CSV file containing broadband data.
-- `backup.sql`: SQL backup file for the `Mobile` and `Broadband` tables.
+- `Network.sql`: SQL backup file for the `Mobile` and `Broadband` tables.
